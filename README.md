@@ -1,14 +1,14 @@
 <p>
     <!-- My PFP -->
-    <img src="https://hacking-with-ht.ml/owner_min.png" align="right" width="100" height="100" />
+    <img src="![image](https://user-images.githubusercontent.com/68525534/118134478-a40e3800-b40a-11eb-91a3-a15d24787c76.png)" align="right" width="100" height="100" />
     <!-- My Name -->
-    <h1>Hi there, My name is Dhanush 
+    <h1>Hi there, My name is Phanty 
         <!-- My Discord Tag -->
         [<a href="https://blueberry-hq.gq/">Detective Phanty! 🍧#5504</a>]
     </h1>    
     <!-- My Site -->
-    <a href="https://app.netlify.com/sites/kurasad/deploys">
-        <img src="https://api.netlify.com/api/v1/badges/ef7c1b0a-b6b7-4995-872c-a4e197ef5c8f/deploy-status" alt="kura.gq site status [https://kura.gq]" />
+    <a href="https://app.netlify.com/sites/blueberry-hq/deploys">
+        <img src="https://api.netlify.com/api/v1/badges/f378c5f3-9bd7-43b8-b83d-ddc3ffb0d809/deploy-status" alt="blueberry-hq.gq site status [https://blueberry-hq.gq/]" />
     </a>
     <!-- My Server -->
     <a href="https://discord.gg/qRYubTF">
