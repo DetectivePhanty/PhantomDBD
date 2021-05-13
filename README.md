@@ -4,35 +4,30 @@
     <!-- My Name -->
     <h1>Hi there, My name is Dhanush 
         <!-- My Discord Tag -->
-        [<a href="https://kura.gq">Kurasad#2521</a>]
+        [<a href="https://blueberry-hq.gq/">Detective Phanty! 🍧#5504</a>]
     </h1>    
     <!-- My Site -->
     <a href="https://app.netlify.com/sites/kurasad/deploys">
         <img src="https://api.netlify.com/api/v1/badges/ef7c1b0a-b6b7-4995-872c-a4e197ef5c8f/deploy-status" alt="kura.gq site status [https://kura.gq]" />
     </a>
     <!-- My Server -->
-    <a href="https://kura.gq?to=support">
-        <img src="https://discordapp.com/api/guilds/666312150775758853/widget.png" alt="Jonin Support server [https://kura.gq?to=support]" />
+    <a href="https://discord.gg/qRYubTF">
+        <img src="https://discordapp.com/api/guilds/666312150775758853/widget.png" alt="Jonin Support server [https://discord.gg/qRYubTF]" />
     </a>
     <!-- My Twitter -->
-    <a href="https://twitter.com/iKurasad">
-        <img src="https://img.shields.io/twitter/follow/iKurasad?style=flat-square" alt="Kurasad's Twitter [https://twitter.com/iKurasad]" />
+    <a href="https://twitter.com/DP_BotDeveloper">
+        <img src="https://img.shields.io/twitter/follow/DP_BotDeveloper?style=flat-square" alt="Phanty's Twitter [https://twitter.com/DP_BotDeveloper]" />
     </a>
     <!-- My Patreon -->
-    <a href="https://www.patreon.com/jonin">
-        <img src="https://img.shields.io/badge/Donate-Patreon-%23F96854" alt="Jonin's Patreon [https://www.patreon.com/jonin]" />
+    <a href="https://www.patreon.com/BlueBerryBot">
+        <img src="https://img.shields.io/badge/Donate-Patreon-%23F96854" alt="BlueBerry's Patreon [https://www.patreon.com/BlueBerryBot]" />
     </a>
     <!-- My Bot Page -->
-    <a href="https://top.gg/bot/662517805983334416">
-        <img src="https://top.gg/api/widget/owner/662517805983334416.svg" alt="Jonin's Top.GG page [https://top.gg/bot/662517805983334416]" />
-    </a>
-    <!-- My Image -->
-    <a href="https://github.com/DPulavarthy/DPulavarthy"
-        title="Hello there">
-        <img src="http://hacking-with-ht.ml/readme/profile.png" alt="Kurasad ReadMe Image" />
+    <a href="https://top.gg/bot/712351071858720769">
+        <img src="https://top.gg/api/widget/owner/662517805983334416.svg" alt="BlueBerry's Top.GG page https://top.gg/bot/712351071858720769]" />
     </a>
     <!-- My Quote -->
-    <h2><b><i> "I basically don't know what I'm doing but I got this far so I guess that's an accomplishment." </i> - Kurrachan </b></h2>
+    <h2><b><i> "I smell cake!" </i> - Detective Phanty! </b></h2>
 </p>
 
 <!-- My Stats / Badges -->
