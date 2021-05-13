@@ -1,6 +1,6 @@
 <p>
     <!-- My PFP -->
-    <img src="![image](https://user-images.githubusercontent.com/68525534/118134478-a40e3800-b40a-11eb-91a3-a15d24787c76.png)" align="right" width="100" height="100" />
+    <img src="![image](https://i.imgur.com/aXSZ40P.png)" align="right" width="100" height="100" />
     <!-- My Name -->
     <h1>Hi there, My name is Phanty 
         <!-- My Discord Tag -->
