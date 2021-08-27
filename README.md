@@ -2,11 +2,11 @@
     <!-- My PFP -->
     <img/>
         <a href="https://www.patreon.com/BlueBerryBot">
-        <img src="https://i.imgur.com/aXSZ40P.png" alt="blueberry-hq.gq site status [https://www.patreon.com/BlueBerryBot]" align="right" width="100" height="100" />
+        <img src="https://i.imgur.com/cvmYvmc.png" alt="blueberry-hq.gq site status [https://www.patreon.com/BlueBerryBot]" align="right" width="100" height="100" />
     <!-- My Name -->
     <h1>Hi there, My name is Phanty 
         <!-- My Discord Tag -->
-        [<a href="https://blueberry-hq.gq/">Detective Phanty! 🍧#5504</a>]
+        [<a href="https://blueberry-hq.gq/">Detective Phanty!#5504</a>]
     </h1>    
     <!-- My Site -->
     <a href="https://app.netlify.com/sites/blueberry-hq/deploys">
