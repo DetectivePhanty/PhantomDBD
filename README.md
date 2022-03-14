@@ -1,20 +1,20 @@
 <p>
     <!-- My PFP -->
     <img/>
-        <a href="https://www.patreon.com/BlueBerryBot">
-        <img src="https://i.imgur.com/cvmYvmc.png" alt="blueberry-hq.gq site status [https://www.patreon.com/BlueBerryBot]" align="right" width="100" height="100" />
+        <a href="https://www.patreon.com/BlueBerryHQ">
+        <img class="avatar img-fluid mt-2" src="https://i.imgur.com/cvmYvmc.png" alt="blueberryhq.co site status [https://www.patreon.com/BlueBerryBot]" align="right" width="100" height="100" />
     <!-- My Name -->
     <h1>Hi there, My name is Phanty 
         <!-- My Discord Tag -->
-        [<a href="https://blueberry-hq.gq/">Detective Phanty!#5504</a>]
+        [<a href="https://blueberryhq.co/">Detective Phanty!#5504</a>]
     </h1>    
     <!-- My Site -->
-    <a href="https://app.netlify.com/sites/blueberry-hq/deploys">
-        <img src="https://api.netlify.com/api/v1/badges/f378c5f3-9bd7-43b8-b83d-ddc3ffb0d809/deploy-status" alt="blueberry-hq.gq site status [https://blueberry-hq.gq/]" />
+    <a href="https://app.netlify.com/sites/blueberryhq.co/deploys">
+        <img src="https://api.netlify.com/api/v1/badges/f378c5f3-9bd7-43b8-b83d-ddc3ffb0d809/deploy-status" alt="blueberryhq.co site status [https://blueberryhq.co/]" />
     </a>
     <!-- My Server -->
-    <a href="https://discord.gg/qRYubTF">
-        <img src="https://discordapp.com/api/guilds/666312150775758853/widget.png" alt="Jonin Support server [https://discord.gg/qRYubTF]" />
+    <a href="https://discord.gg/9UzfyXTCcC">
+        <img src="https://discordapp.com/api/guilds/666312150775758853/widget.png" alt="BlueBerry Support server [https://discord.gg/9UzfyXTCcC]" />
     </a>
     <!-- My Twitter -->
     <a href="https://twitter.com/DP_BotDeveloper">
@@ -32,8 +32,50 @@
     <h2><b><i> "I smell cake!" </i> - Detective Phanty! </b></h2>
 </p>
 
-<!-- My Stats / Badges -->
+## 🍣 About Me 
 
-| STATS | BADGES |
-|-------|--------|
-| <a href="https://github.com/PhantomDBD/BlueBerry-Code"><img src="https://github-readme-stats.vercel.app/api?username=DPulavarthy&count_private=true&show_icons=true&title_color=FFFFFF&icon_color=E18499&text_color=9f9f9f&bg_color=0D1117" alt="Phanty's Github Status" /></a><a href="https://github.com/PhantomDBD/BlueBerry-Code"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPulavarthy&count_private=true&show_icons=true&title_color=FFFFFF&icon_color=E18499&text_color=9f9f9f&bg_color=0D1117" alt="Phanty's Github Status" /></a><a href="https://github.com/PhantomDBD/BlueBerry-Code"><img src="https://github-readme-stats.vercel.app/api/pin?username=PhantomDBD&repo=BlueBerry-Code&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" alt="BlueBerry-Code Repo Link" /></a> | <table><tr><td align='center'>October 13, 2020</td><td align='center'>October 13, 2020</td><td align='center'>October 13, 2020</td></tr><tr><td align='center'><img src="https://i.imgur.com/gBt4Di1.png" title="Cybersecurity Essentials" width="100px"/></td><td align='center'><img src="https://hacking-with-ht.ml/kuragq/badges/itc.png" title="Introduction to Cybersecurity" width="100px"/></td><td align='center'><img src="https://i.imgur.com/vD7f10U.png" title="Introduction to IoT" width="100px"/></tr><tr><td align='center'>October 13, 2020</td><tr><td><img src="https://i.imgur.com/8RUQG2V.png" title="Introduction to Packet Tracer" width="100px"/></td></tr></table>
+- 🔭 I'm a Developer of BlueBerry **[BlueBerry](https://covid-19-tracker-e4bda.web.app/)**
+
+- 🌱 I’m **He/Him**
+
+- 🗺️ Things I do Photography, Graphics Design, Programming, Community Manager 
+
+- ⚡ Fun fact **I play games and go to bother my friends very often.**
+
+## 🚀 My streaks:
+
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
+
+<p align="center">
+    <a href="https://github.com/PhantomDBD/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PhantomDBD&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/PhantomDBD/github-readme-stats"><img alt="PhantomDBD's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PhantomDBD&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/PhantomDBD/github-readme-stats"><img alt="PhantomDBD's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomDBD&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/PhantomDBD/github-readme-activity-graph"><img alt="PhantomDBD's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PhantomDBD&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://twitter.com/DP_BotDeveloper"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href = "https://discord.gg/9UzfyXTCcC"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
+<a href = "https://www.instagram.com/detective_phanty/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UC6OBly70SKct1-k5wmlM3pw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
