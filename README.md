@@ -34,7 +34,7 @@
 
 ## 🍣 About Me 
 
-- 🔭 I'm a Developer of BlueBerry **[BlueBerry](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I'm a Developer of **[BlueBerry](https://top.gg/bot/712351071858720769)**
 
 - 🌱 I’m **He/Him**
 
