@@ -75,7 +75,7 @@
 
 <a href = "https://twitter.com/@DetectivePhanty"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href = "https://discord.gg/9UzfyXTCcC"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
-<a href = "https://www.instagram.com/detective_phanty/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/DetectivePhanty/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC6OBly70SKct1-k5wmlM3pw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
