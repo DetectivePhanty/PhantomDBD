@@ -2,7 +2,7 @@
     <!-- My PFP -->
     <img/>
         <a href="https://www.patreon.com/BlueBerryHQ">
-        <img class="avatar img-fluid mt-2" src="https://i.imgur.com/cvmYvmc.png" alt="blueberryhq.co site status [https://www.patreon.com/BlueBerryBot]" align="right" width="100" height="100" />
+        <img class="avatar img-fluid mt-2" src="https://i.imgur.com/7vhEfiY.jpg" alt="blueberryhq.co site status [https://www.patreon.com/BlueBerryBot]" align="right" width="100" height="100" />
     <!-- My Name -->
     <h1>Hi there, My name is Phanty 
         <!-- My Discord Tag -->
@@ -17,8 +17,8 @@
         <img src="https://discordapp.com/api/guilds/666312150775758853/widget.png" alt="BlueBerry Support server [https://discord.gg/9UzfyXTCcC]" />
     </a>
     <!-- My Twitter -->
-    <a href="https://twitter.com/DP_BotDeveloper">
-        <img src="https://img.shields.io/twitter/follow/DP_BotDeveloper?style=flat-square" alt="Phanty's Twitter [https://twitter.com/DP_BotDeveloper]" />
+    <a href="https://twitter.com/@DetectivePhanty">
+        <img src="https://img.shields.io/twitter/follow/@DetectivePhanty?style=flat-square" alt="Phanty's Twitter [https://twitter.com/@DetectivePhanty]" />
     </a>
     <!-- My Patreon -->
     <a href="https://www.patreon.com/BlueBerryBot">
@@ -73,7 +73,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://twitter.com/DP_BotDeveloper"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href = "https://twitter.com/@DetectivePhanty"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href = "https://discord.gg/9UzfyXTCcC"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
 <a href = "https://www.instagram.com/detective_phanty/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC6OBly70SKct1-k5wmlM3pw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
